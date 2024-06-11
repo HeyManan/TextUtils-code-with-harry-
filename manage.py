@@ -22,4 +22,5 @@ if __name__ == '__main__':
     print("Test")
     print("Test 2")
     print("Test 3")
+    print("Test 4")
     main()
