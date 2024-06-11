@@ -21,4 +21,5 @@ def main():
 if __name__ == '__main__':
     print("Test")
     print("Test 2")
+    print("Test 3")
     main()
