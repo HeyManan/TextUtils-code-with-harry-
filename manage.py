@@ -27,4 +27,6 @@ if __name__ == '__main__':
     print("Test 6")
     print("Test 7")
     print("Test 8")
+    print("Test 9")
+    print("Test 10")
     main()
